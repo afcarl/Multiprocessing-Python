@@ -1,0 +1,26 @@
+Begin Main
+
+sort_1 
+**********************************************************
+
+sec_list.pkl LOADED.
+Wed Sep 17 07:43:44 2014 : Begin Time
+Wed Sep 17 07:50:09 2014 : End Time
+  385.0000 second(s) per iteration for  1 iteration(s)
+  385.0000 second(s) total
+
+multi_sort 
+**********************************************************
+
+sec_list.pkl LOADED.
+Wed Sep 17 07:50:09 2014 : Begin Time
+................
+Mapping
+0% ................ 100%
+0%  100%
+
+
+Wed Sep 17 07:52:56 2014 : End Time
+  167.0000 second(s) per iteration for  1 iteration(s)
+  167.0000 second(s) total
+End Main
